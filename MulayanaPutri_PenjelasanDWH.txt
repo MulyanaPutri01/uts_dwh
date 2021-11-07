@@ -1,0 +1,16 @@
+Nama	: Mulyana Putri 
+NIM	: 19090113
+Kelas	: 5b
+
+
+----------------------------------------------------------
+1. Desain Database Sesuai Kebutuhan Masing Masing 
+2. Import Database Classismodels yang sudah disediakan 
+3. Setelah Database di import maka saya akan membuat 3 Model Tabel Dimensi 
+	- Tabel Dimensi Employees
+	- Tabel Dimensi Office
+	- Tabel Dimensi Customer 
+4. Koneksikan Pentaho Ke dalam database phpmyadmin dengan tujuan Mengakses File Database " ClassicModels" 
+5. Tabel Input 	  : digunakan untuk mengambil sebuah data atau nilai di dalam database 
+   Add Sequence	  : Proses Penambahan sebuah data berdasarkan ID 
+   Insert/update  : Proses Penambahan data yang tadinya di dalam sumber data asli
